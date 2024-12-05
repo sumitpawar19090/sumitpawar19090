@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumitpawar
-- 👀 I’m interested in python language
-- 🌱 I’m currently learning Data Analysis 
+- 👀 I’m Intern in Python Developer
+- 🌱 I’m currently Exploring Data Analysis 
 
 
 <!---
